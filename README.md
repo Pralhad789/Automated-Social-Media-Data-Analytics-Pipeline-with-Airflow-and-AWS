@@ -1,4 +1,4 @@
-# Automated-Social-Media-Data-Analytics-Pipeline-with-Airflow-and-AWS
+# Automated-Social-Media-Data-Analytics-Pipeline-with-Airflow-and-AWS-Redshift
 
 
 Implemented an automated social media data analytics pipeline, utilizing Reddit API, Apache Airflow and AWS services, including AWS Glue and AWS Redshift. Elevated the project's impact by automating storage in an S3 bucket and enabling real-time analytics on Amazon Redshift, thereby enhancing data-driven decision-making capabilities.
